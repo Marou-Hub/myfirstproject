@@ -11,5 +11,4 @@ def main():
     print("Il vous reste ", wallet, "euros.")
 
 
-if __name__ == '__main__':
-        main()
+main()
