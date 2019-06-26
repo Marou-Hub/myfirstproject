@@ -12,5 +12,4 @@ def main():
     print("Salut " + username + ", vous avez " + str(age) + " ans !")
 
 
-if __name__ == '__main__':
-    main()
+main()
